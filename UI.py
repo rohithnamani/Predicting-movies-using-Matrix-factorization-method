@@ -15,3 +15,5 @@ e.focus_set()
 b = Button(root,text='okay',command=printtext)
 b.pack(side='bottom')
 root.mainloop()
+
+#Changes
