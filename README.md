@@ -1,6 +1,3 @@
-# TestDemo
-Project files
-
 # Movie-Recommender-using-SVD
 Movie Recommender for MovieLens 100K Dataset using Singular Value Decomposition
 <dt>
@@ -35,4 +32,3 @@ u.data      --The full u data set, 100000 ratings by 943 users on 1682 items.
 	percentage of variance of data to be preserved.(sample output-svd_dr1.png)</br>
 </dt>
        
-
